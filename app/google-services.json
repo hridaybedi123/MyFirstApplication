@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051563945004",
+    "project_id": "myfirstapplication-71b54",
+    "storage_bucket": "myfirstapplication-71b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051563945004:android:73ace9a2a9776ccf977589",
+        "android_client_info": {
+          "package_name": "ca.hbedi.myfirstapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051563945004-tp8jmkmdqqk1qb1grft3j68hbsl7dqd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAve9tpjHZnunX4lbmpqXnDXJz9up5QziE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051563945004-tp8jmkmdqqk1qb1grft3j68hbsl7dqd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
